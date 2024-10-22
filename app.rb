@@ -7,3 +7,8 @@ get("/") do
   <p>Define some routes in app.rb</p>
   "
 end
+
+
+get("/rock") do
+  "Body of the response"
+end
